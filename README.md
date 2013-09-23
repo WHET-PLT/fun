@@ -13,6 +13,21 @@ Fun nonsense and puns
 ![image](drama-dairy.jpg)
 
 
-######OCaml pun #2: 
+######\#Difficult Problems
 
- 
+[![image](halting_problem.png)][xkcd]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--keep links here in the footnotes-->
+[xkcd]: http://xkcd.com/1266/
