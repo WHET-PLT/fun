@@ -7,7 +7,9 @@ _How to setup a githook to get your current geolocation and add it to the contri
 2. Set up your git hooks directory. Either:
 
 	a. Set up a git template directory in your home directory, `~/.git_template/` and copy over the default templates `cp -r /usr/share/git-core/templates ~/.git_template/`.
+	
 	b. Add the `contributors.geojson` geolocation [pre-commit hook][hook] to the `~/.git_template/hooks` directory. Make sure it is executable and it is named `pre-commit`.
+	
 	c. run git config --global init.templatedir `~/.git_template/` to tell git to source its templates/hooks from that directory.
 	
 	OR
